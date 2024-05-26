@@ -1,0 +1,6 @@
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.dnlib.dll.compressed|3.6.0.0|dnlib, Version=3.6.0.0, Culture=neutral, PublicKeyToken=50e96378b6e77999|dnlib.dll|02E9AE08F3EC364834EB3FFC122F1C90E1B0E95E|1167872
+costura.logic.net.dll.compressed|1.5.0.0|LoGiC.NET, Version=1.5.0.0, Culture=neutral, PublicKeyToken=null|LoGiC.NET.dll|A923A092618969BE8A7D52072BDB3BC7B3E2BC7E|28160
+costura.newtonsoft.json.dll.compressed|13.0.0.0|Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|E13C6E4210043C4976DCDC447EA2B32854F70CC6|711952
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
