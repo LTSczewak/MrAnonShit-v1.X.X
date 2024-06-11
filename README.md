@@ -1,5 +1,5 @@
 # MrAnonShitty Crypter v1.X.X Original Source Code (v2 coming out soon ^^)
 <h2 align="center">
-Here we have classic lowlife case of 3rd worldy scamboys scamming some crypter seller for his source code, then skidding, re-designing it's UI, and desperately trying to scam more for 350$, 600$, 800$ and even more in hackforums(now banned), exploit(banned) as well as xss and TG...<br>
-  P.S.: Scamboys not even DNGuard Enterprise(HVM + BoxedSDK) can protect y'all, you're just a lost cause xD 
-<br>Both .sln and compiled along with required files is in the repository... So happy cracking/skidding whatever you want lmao<br> </h2>
+Here we have classic lowlife case of 3rd worldy scamboys scamming some crypter seller for his source code, then skidding, re-designing it's UI, and desperately trying to scam more for 350$, 600$, 800$ and even more in hackforums(now banned), exploit(banned) as well as xss and TG...
+  Both .sln and compiled along with required files is in the repository... So happy cracking/skidding whatever you want lmao<br>
+<br>P.S.: Scamboys not even DNGuard Enterprise(HVM + BoxedSDK) can protect y'all, you're just a lost cause xD<br> </h2> 
